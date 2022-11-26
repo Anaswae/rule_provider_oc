@@ -4960,7 +4960,6 @@ payload:
   - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
-
 # > TikTok
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
@@ -4972,3 +4971,9 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,-tiktokcdn-com
+# > snackvideo
+  - DOMAIN-SUFFIX,snackvideo.comm
+  - DOMAIN-SUFFIX,snackvideo.in
+  - DOMAIN-SUFFIX,uvfuns.com
+  - DOMAIN-SUFFIX,myqcloud.com
+  
