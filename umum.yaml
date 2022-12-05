@@ -3001,6 +3001,10 @@ payload:
   - DOMAIN-SUFFIX,belajar.ruangguru.com
   - DOMAIN-SUFFIX,midtrans.com
   - DOMAIN-SUFFIX,api.midtrans.com
+
+
+# > >BRAINLY
+  - DOMAIN-SUFFIX,brainly.co.id
   
 # > > ZOOM
   - DOMAIN-SUFFIX,zoom.us
