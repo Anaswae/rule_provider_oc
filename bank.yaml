@@ -68,3 +68,15 @@ payload:
 
   #Muamalat
   - DOMAIN-SUFFIX,bankmuamalat.co.id
+
+  #Bank Jatim
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-KEYWORD,bankjatim
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-KEYWORD,bankjatim
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-KEYWORD,bankjatim
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-KEYWORD,bankjatim
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-KEYWORD,bankjatim
